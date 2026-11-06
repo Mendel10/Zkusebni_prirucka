@@ -10,7 +10,7 @@ Zkouškové období je náročné, ale s dobrým plánem se dá zvládnout.
 
 **Nejdůležitější pravidlo:** Začni se učit včas!
 
-### 🧠 Základní pravidla
+### Základní pravidla
 
 - Plánuj si čas na učení.
 - Dělej si pravidelné přestávky.
@@ -20,7 +20,7 @@ Zkouškové období je náročné, ale s dobrým plánem se dá zvládnout.
 
 *Pamatuj: I malé pokroky se počítají!*
 
-## ⏰ 2. Denní studijní plán
+## 2. Denní studijní plán
 
 | Čas | Aktivita |
 |---|---|
@@ -32,7 +32,7 @@ Zkouškové období je náročné, ale s dobrým plánem se dá zvládnout.
 | 14:00 | Procvičování |
 | 17:00 | Volný čas |
 
-## ✅ 3. Můj To-Do list
+## 3. Můj To-Do list
 
 - [x] Založit GitHub repozitář
 - [x] Vytvořit README.md
@@ -40,7 +40,7 @@ Zkouškové období je náročné, ale s dobrým plánem se dá zvládnout.
 - [ ] Absolvovat zkoušky
 - [ ] Oslavit úspěšné zakončení semestru
 
-## 💻 4. Digitální pomocník
+## 4. Digitální pomocník
 
 Jednoduchý Python program pro výpočet celkového času studia.
 
@@ -55,13 +55,13 @@ print("Celkový čas:", celkem, "hodin")
 
 *Programování je někdy jednodušší než zkoušky!*
 
-## 🌐 5. Užitečné odkazy
+## 5. Užitečné odkazy
 
 - [GitHub](https://github.com/) – místo pro správu projektů.
 - [Python dokumentace](https://docs.python.org/3/) – pomoc při programování.
 - [Markdown Guide](https://www.markdownguide.org/) – nauč se formátovat text.
 
-## 🏆 6. Závěrečné hodnocení
+## 6. Závěrečné hodnocení
 
 **Co jsem se naučil?**
 
@@ -72,4 +72,4 @@ print("Celkový čas:", celkem, "hodin")
 
 ~~Zkouškové je nejlepší období roku.~~
 
-*Hodně štěstí u zkoušek! 🍀*
+*Hodně štěstí u zkoušek!*
