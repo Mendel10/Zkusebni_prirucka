@@ -72,4 +72,4 @@ print("Celkový čas:", celkem, "hodin")
 
 ~~Zkouškové je nejlepší období roku.~~
 
-*Hodně štěstí u zkoušek!*
+*Hodně štěstí u zkoušek!!!*
